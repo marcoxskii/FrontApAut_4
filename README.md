@@ -33,3 +33,4 @@ Interfaz web moderna para negocio de tecnología en Cuenca, desarrollada con Rea
     ```
 
 5.  Abre tu navegador en la URL mostrada (usualmente `http://localhost:5173`).
+6.  Probar con una cámara el procesamiento
